@@ -1,6 +1,6 @@
-[submodule "Facturator.ai---Backend"]
-	path = Facturator.ai---Backend
-	url = https://github.com/Rolitoansu/Facturator.ai---Backend.git
+[submodule "Facturator.ai-Backend"]
+	path = Facturator.ai-Backend
+	url = https://github.com/Rolitoansu/Facturator.ai-Backend.git
 [submodule "Facturator.ai-ML"]
 	path = Facturator.ai-ML
 	url = https://github.com/Rolitoansu/Facturator.ai-ML.git
