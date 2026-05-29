@@ -1,6 +1,6 @@
 # Facturator.ai
 
-Facturator.ai official repository
+Facturator.ai official repository.
 
 ## ✍️ Authors
 <div style="display:flex;gap:0.25em;">
